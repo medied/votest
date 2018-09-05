@@ -1,0 +1,11 @@
+{
+  "name": "zos-vote",
+  "version": "0.1.0",
+  "contracts": {
+    "Votest": "Votest"
+  },
+  "stdlib": {
+    "name": "openzeppelin-zos",
+    "version": "^1.9.4"
+  }
+}
